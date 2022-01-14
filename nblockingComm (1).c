@@ -1,6 +1,5 @@
 /*
 By Joshua Ball
-CS5379 D01: Project 1
 
 */
 
