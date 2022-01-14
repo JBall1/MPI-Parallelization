@@ -1,5 +1,5 @@
 /*
-Project 5. Parallelize the force calculation for n particles so that 
+           Parallelize the force calculation for n particles so that 
            the computation loads on all processes are balanced, and 
            commuication cost has a complexity of O(n log_2 p) for 
            n particles and p processors.
